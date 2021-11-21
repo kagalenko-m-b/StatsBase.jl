@@ -35,9 +35,7 @@ export
     quantile,
     quantile!,
     std,
-    stdm,
     var,
-    varm,
 
     ## weights
     AbstractWeights,    # abstract type to represent any weight vector
